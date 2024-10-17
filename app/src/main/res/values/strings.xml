@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="welcome_to_the_weather_app">Welcome to the Weather App</string>
+    <string name="instructions">Search here for any city you would like to know the weather</string>
+    <string name="search_city">Search city</string>
+    <string name="current_location_not_found">Current location not found.</string>
+    <string name="searched_city_not_found">Searched city not found.</string>
+    <string name="city_name_arg">City name: %1$s</string>
+    <string name="latitude_arg">Latitude: %1$s</string>
+    <string name="longitude_arg">Longitude: %1$s</string>
+    <string name="temperature_arg">Temperature: %1$s</string>
+    <string name="min_arg">Min: %1$s</string>
+    <string name="max_arg">Max: %1$s</string>
+    <string name="current_weather_arg">Current weather: %1$s</string>
+    <string name="welcome_to_weather_app">Welcome to the Weather App</string>
+</resources>
